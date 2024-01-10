@@ -1,0 +1,15 @@
+.small-google-logo {
+    width: 50px;
+    margin-right: 8px;
+    /* Add any additional styles you want to apply to the small Google logo */
+  }
+
+  .bg-color{
+    background-color: #4f8eda;
+  }
+
+.label-align{
+    float: left;
+    margin-bottom: 5pt;
+}
+ 
