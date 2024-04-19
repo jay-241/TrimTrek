@@ -3,10 +3,6 @@ The Barber Booking and Scheduling App is a comprehensive platform that enables u
 
 **Deployed application: https://group07-trimtrek.netlify.app/** 
 
-**GitLab Link: https://git.cs.dal.ca/courses/2023-summer/csci-5308/group07/** 
-
-**yml file link: https://git.cs.dal.ca/courses/2023-summer/csci-5308/group07/-/blob/f7dfa63dbceb12222e8b7b17d4f6ac42ba40d61c/.gitlab-ci.yml**
-
 ### Authors
 
 #### - Jay Rana
